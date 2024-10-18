@@ -36,14 +36,14 @@ El repositorio está compuesto por los siguientes archivos y directorios:
 
 - Carpeta models: esta carperta contiene todos los modelos exportados para luego ser utilizados en el notebook TPFinal y realizar la evaluación de los mismos.
 
-- Notebooks: contamos con distintos notebooks donde se entrenan y exportan los diferentes modelos:
+- Notebooks: Contamos con distintos notebooks donde se entrenan y exportan los diferentes modelos.
     - decisionTreeRegressor.ipynb
     - KNeighborsRegressor.ipynb
     - neuralNetwork.ipynb
     - ridgeRegression.ipynb
     - supportVectorRegressor.ipynb
 
- - Datasets: contamos con distintas versiones del dataset de Spotify:
+ - Carpeta datasets: contamos con distintas versiones del dataset de Spotify.
      - spotify_songs.csv: dataset original descargado de Kaggle
      - df_scaled.csv: dateset original con las variables escaladas (se usó MinMaxScaler())
      - df_pca6.csv: dataset de PCA con 6 componentes
