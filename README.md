@@ -44,7 +44,7 @@ El repositorio está compuesto por los siguientes archivos y directorios:
     - supportVectorRegressor.ipynb
 
  - Datasets: contamos con distintas versiones del dataset de Spotify:
-     - spotify_songs.csv: dataset original descargago de Kaggle
-     - df_scaled.csv: dateset original con las variables escaladas (se uso MinMaxScaler())
+     - spotify_songs.csv: dataset original descargado de Kaggle
+     - df_scaled.csv: dateset original con las variables escaladas (se usó MinMaxScaler())
      - df_pca6.csv: dataset de PCA con 6 componentes
      - df_pca9.csv: dataset de PCA con 9 componentes
